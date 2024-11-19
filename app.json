@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "DirectorioAppNew",
+    "slug": "DirectorioAppNew",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    
+    "plugins": [
+      "@react-native-firebase/app"
+    ],
+    "android": {
+      "package": "com.yourcompany.directorioapp",
+      "googleServicesFile": "./google-services.json"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

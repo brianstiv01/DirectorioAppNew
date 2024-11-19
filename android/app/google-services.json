@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897607897466",
+    "project_id": "findercol",
+    "storage_bucket": "findercol.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897607897466:android:e70bc258a571d0751446c3",
+        "android_client_info": {
+          "package_name": "com.DirectorioApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFsdddjJK-cCxe1V32RDgwDPBhqBVnPZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
